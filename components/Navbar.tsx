@@ -77,7 +77,7 @@ const Navbar: React.FC<NavbarProps> = ({ theme, toggleTheme, lang }) => {
               <div className="absolute -inset-1 bg-gradient-to-r from-primary to-rose-400 rounded-full blur opacity-60 group-hover:opacity-100 transition duration-1000 group-hover:duration-200"></div>
               <img 
                 className="relative h-10 w-10 md:h-12 md:w-12 rounded-full border-2 border-white dark:border-gray-800 object-cover"
-                src="assets/AYACI.png" 
+                src="/assets/aya.png" 
                 alt="AyaDev Avatar" 
               />
             </div>

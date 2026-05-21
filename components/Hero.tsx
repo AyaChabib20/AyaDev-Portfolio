@@ -128,7 +128,7 @@ const Hero: React.FC<HeroProps> = ({ lang }) => {
               
                <div className="relative w-80 h-80 sm:w-96 sm:h-96 lg:w-[450px] lg:h-[450px] animate-morph overflow-hidden shadow-2xl transition-all duration-500 hover:shadow-[0_20px_50px_rgba(255,71,87,0.5)] bg-gray-100 dark:bg-cardDark">
                   <img 
-                      src="assets/AYACI.png" 
+                      src="/assets/aya.png" 
                       alt="AyaDev Profile" 
                       className="w-full h-full object-cover transform scale-105 group-hover:scale-110 transition-transform duration-700"
                   />
